@@ -17,7 +17,6 @@ colors:
 
 body{
   font-family:Garamond, Georgia, serif;
-  font-size: 2vw;
   color: #1E152A;
   background-color: #FAFAFF;
 }
@@ -26,13 +25,6 @@ h1, h2, h3, h4, h5, h6{
   font-family: "Helvetica", sans-serif;
   font-weight: bold;
 }
-
-h1{ margin: 20px 0 10px 0; font-size: 5.9vw;}
-h2{ margin: 16px 0  8px 0; font-size: 3.9vw;}
-h3{ margin: 12px 0  6px 0; font-size: 2.9vw;}
-h4{ margin: 10px 0  5px 0; font-size: 2.4vw;}
-h5{ margin:  8px 0  4px 0; font-size: 2.0vw;}
-h6{ margin:  6px 0  3px 0; font-size: 1.8vw;}
 
 nav{display: block; width: 100%; background-color: #1E152A; padding: 10px; color: #FAFAFF; font-family: "Helvetica", sans-serif;}
 
