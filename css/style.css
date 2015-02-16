@@ -68,7 +68,6 @@ blockquote:before {
 
 input, .button {
   font-family: "Helvetica", sans-serif;
-  font-size: 2vw;
 }
 
 button, input[type=button], input[type=submit], .button{
