@@ -49,6 +49,8 @@ nav li{
 nav a{
   color: #FAFAFF;
 }
+nav a:hover{color: #FAFAFF; text-decoration: none; border-bottom: 1px solid #FAFAFF;
+}
 
 a{ color: #1E152A; text-decoration: none; border-bottom: 1px dashed #1E152A;
 }
