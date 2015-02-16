@@ -19,6 +19,6 @@ vanligste.
 Det er veldig viktig å ha ordnet med forsikring før man omregistrerer bilen.
 En Trafikkstasjon (tidligere "Biltilsynet") kommer ikke til å omregistrere bilen før du har forsikring.
 De svarer på spørsmål om omregistrering.
-[Her er en oversikt over trafikkstajsoner i Norge.](http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner)
+[Her er en oversikt over trafikkstasjoner i Norge.](http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner)
 
 </div>
