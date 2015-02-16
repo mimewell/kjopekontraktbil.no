@@ -52,6 +52,8 @@ nav a{
 
 a{ color: #1E152A; text-decoration: none; border-bottom: 1px dashed #1E152A;
 }
+a:hover{ color: #1E152A; text-decoration: none; border-bottom: 1px solid #1E152A;
+}
 
 blockquote {
     display: block;
@@ -102,10 +104,11 @@ button, input[type=button], input[type=submit], .button{
   padding: 50px 0;
   margin: 1%;
   background-color: #1E152A;
+  color: #FAFAFF;
 }
 
-#contracts a{
-  color: #FAFAFF;
+#contracts a:hover{
+  color: #FAFAFF; text-decoration: none; border-bottom: 1px solid #FAFAFF;
 }
 
 section{
@@ -118,6 +121,9 @@ section.lan{
 section.lan a, section.lan p, section.lan h2{
  color: #FAFAFF
 }
+section.lan a:hover{ color: #FAFAFF; text-decoration: none; border-bottom: 1px solid #FAFAFF;
+}
+
 section.lan a{
   border-bottom: 1px dashed #FAFAFF;
 }
