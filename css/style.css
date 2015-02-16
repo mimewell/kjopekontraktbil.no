@@ -37,8 +37,14 @@ h6{ margin:  6px 0  3px 0; font-size: 1.8vw;}
 
 nav{display: block; width: 100%; background-color: #1E152A; padding: 10px; color: #FAFAFF; font-family: "Helvetica", sans-serif;}
 
+nav ul{
+  padding: 0;
+  margin: 0;
+}
+
 nav li{
   display: inline-block;
+  margin-right: 10px;
 }
 nav a{
   color: #FAFAFF;
@@ -51,6 +57,7 @@ blockquote {
     display: block;
     margin: 20px 10px 10px 10px;
     padding: 0.5em 10px;
+    font-size: inherit;
     quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote:before {
@@ -74,4 +81,56 @@ button, input[type=button], input[type=submit], .button{
   background-color: #08A045;
   color: #FAFAFF;
   border: 1px solid #08A045;
+}
+
+.container > footer{
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+#content{
+  min-height: 400px;
+}
+
+#contracts a{
+  display: block;
+  width: 48%;
+  float: left;
+  text-align: center;
+  padding: 50px 0;
+  margin: 1%;
+  background-color: #1E152A;
+}
+
+#contracts a{
+  color: #FAFAFF;
+}
+
+section{
+  padding: 30px 0;
+}
+
+section.lan{
+  background-color: #1E152A;
+}
+section.lan a, section.lan p, section.lan h2{
+ color: #FAFAFF
+}
+section.lan a{
+  border-bottom: 1px dashed #FAFAFF;
+}
+
+section.forsikring{
+
+}
+table th{
+  padding-right: 10px;
+}
+table .nr{
+  text-align: right;
+}
+table .sum{
+  font-weight: bold;
 }

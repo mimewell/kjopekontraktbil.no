@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: mark
 title: Forsikring
 ---
+
 
 # Forsikring
 
@@ -16,6 +17,8 @@ vanligste.
 **DU MÅ HA FORSIKRING PÅ KJØRETØYET FØR DU OMREGISTRERER BILEN PÅ DEG**.
 
 Det er veldig viktig å ha ordnet med forsikring før man omregistrerer bilen.
-Trafikkstasjoner (tidligere "Biltilsynet") kommer ikke til å omregistrere bilen før du har forsikring.
+En Trafikkstasjon (tidligere "Biltilsynet") kommer ikke til å omregistrere bilen før du har forsikring.
 De svarer på spørsmål om omregistrering.
-[http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner](Her er en oversikt over trafikkstajsoner i Norge.)
+[Her er en oversikt over trafikkstajsoner i Norge.](http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner)
+
+</div>
