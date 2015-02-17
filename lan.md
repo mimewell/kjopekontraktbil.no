@@ -77,3 +77,13 @@ Kostnader per måned:
 Tallene er hentet fra forskjellige selskap og er rundet av.
 Hensikten er å vise at man bør undersøke det totale bildet selv.
 Det er godt mulig at du kommer til andre resultater.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Kjøpekontrakt - Lån -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9548062553812638"
+     data-ad-slot="2390268900"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
