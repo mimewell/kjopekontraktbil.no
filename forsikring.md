@@ -21,4 +21,12 @@ En Trafikkstasjon (tidligere "Biltilsynet") kommer ikke til å omregistrere bile
 De svarer på spørsmål om omregistrering.
 [Her er en oversikt over trafikkstasjoner i Norge.](http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner)
 
-</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Kjøpekontrakt forsikring -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9548062553812638"
+     data-ad-slot="3867002105"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
