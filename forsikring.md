@@ -1,6 +1,7 @@
 ---
 layout: mark
 title: Forsikring
+keyword: forsikring, bruktbil, bil, omregistrering
 ---
 
 

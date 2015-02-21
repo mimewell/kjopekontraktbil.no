@@ -1,6 +1,7 @@
 ---
 layout: mark
 title: Lån
+keyword: lån, pantelån, forbrukslån, bruktbil, bil, sikkerhet, pant, 
 ---
 
 # Lån
