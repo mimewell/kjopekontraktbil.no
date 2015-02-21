@@ -1,6 +1,8 @@
 ---
 layout: mark
 title: Salgskontrakt bil
+keyword: Salgskontrakt bil, slagskontrakt bruktbil
+description: Det er lurt å skrive en salgskontrakt på bruktbil.
 ---
 
 Salgskontrakt bil
