@@ -28,9 +28,10 @@ Muntelig kontrakt
 
 I følge norsk lov er en muntelig avtale like bindende som en skriftelig avtale, men
 på en andre side så er det veldig vanskelig å etterprøve i ettertid.
-Så var smart: [skrive kontrakt](/kjopekontrakt.html).
+Så var smart: skrive kontrakt.
 
 Alternative kjøpekontrakter:
+----------------------------
 
 <div id="contracts">
 <a href="/57132_Kontrakt_Bruktbil_BM_interaktivNY.pdf">Forbrukerrådet</a>
