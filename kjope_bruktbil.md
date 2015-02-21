@@ -2,7 +2,7 @@
 title.: Bruktbil
 layout: mark
 keyword: bruktbil, brukt bil
-----
+---
 
 Kjøpe bruktbil
 ==============
