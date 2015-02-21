@@ -18,8 +18,7 @@ Forbrukerkjøpeloven er en mye sterke lov når du kjøper en bil eller annen gje
 For å gi både kjøper og selger trygge rammer rundt kjøpe og salg av bil, anbefales det på det sterkeste å skrive en kontrakt.
 
 Oversikt over gratis kontrakter:
-
-<p>Her er en oversikt over gratis kjøpekontrakter på bil:</p>
+-------------------------------
 
 <div id="contracts">
 <a href="/57132_Kontrakt_Bruktbil_BM_interaktivNY.pdf">Forbrukerrådet</a>
