@@ -31,7 +31,7 @@ et lån uten sikkerhet og bare ansvarsforsikring.
 Det siste alternative gir dårligere sikkerhet mot skader enn kaskoforsikring,
 men er den risikoen bør du vurdere opp mot verdien på bilen.
 
-(Oversikt over billån)[https://personomi.no/bank/smaalan/billan]
+[Oversikt over billån](https://personomi.no/bank/smaalan/billan)
 
 ## Lån uten sikkerhet
 
