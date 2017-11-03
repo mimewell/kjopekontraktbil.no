@@ -1,7 +1,6 @@
 ---
 layout: mark
 title: Lån
-keyword: lån, pantelån, forbrukslån, bruktbil, bil, sikkerhet, pant, 
 ---
 
 # Lån
@@ -31,6 +30,8 @@ Derfor kan det være lurt å sjekke pris på et lån med et pantelån med kasko 
 et lån uten sikkerhet og bare ansvarsforsikring.
 Det siste alternative gir dårligere sikkerhet mot skader enn kaskoforsikring,
 men er den risikoen bør du vurdere opp mot verdien på bilen.
+
+[Oversikt over billån](https://personomi.no/bank/smaalan/billan)
 
 ## Lån uten sikkerhet
 
@@ -62,29 +63,3 @@ Det gir den laveste renten, men det krever at man ikke har veldig høy andel lå
 Mange er usikre på om det er lurt med forbrukslån.
 Generelt kan man si at det er rimeligere å ta et pantlån.
 Det beste er nok å pengene selv, men det er ikke alltid mulig.
-Her er et eksempl på når et forbrukslån faktisk er bedre enn et pantelån:
-
-Volkswagen Golf 2002. Pris: 50 500. Lån: 32 000
-
-Kostnader per måned:
-
-<table>
-  <tr><th></th><th>Billån med pant</th><th>Forbrukslån</th></tr>
-  <tr><td>Lån</td><td class="nr">610</td><td class="nr">790</td></tr>
-  <tr><td>Forsikring</td><td class="nr">1 000</td><td class="nr">500</td></tr>
-  <tr class="sum"><td>Totalt</td><td class="nr">1 610</td><td class="nr">1 290</td></tr>
-</table>
-
-Tallene er hentet fra forskjellige selskap og er rundet av.
-Hensikten er å vise at man bør undersøke det totale bildet selv.
-Det er godt mulig at du kommer til andre resultater.
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Kjøpekontrakt - Lån -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9548062553812638"
-     data-ad-slot="2390268900"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
