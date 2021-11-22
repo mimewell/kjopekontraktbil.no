@@ -39,7 +39,7 @@ Alternative kjøpekontrakter:
 <a href="/57132_Kontrakt_Bruktbil_BM_interaktivNY.pdf">Forbrukerrådet</a>
 <a href="/KontraktBilNorge.pdf">BilNorge</a>
 <a href="/Kontrakt_kjop_salg_bruktbil_0613.pdf">DNB</a>
-<a href="/naf_kontrakt_bruktbil-skjema.pdf">NAF</a>
+<a href="https://kjopekontrakt.naf.no">NAF</a>
 </div>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
